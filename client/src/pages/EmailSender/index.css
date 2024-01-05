@@ -1,0 +1,21 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.menu {
+  width: 50px;
+  height: 15px;
+}
+.preview_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.iframe {
+  width: 55vw;
+  height: 50vh;
+}
